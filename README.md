@@ -20,3 +20,7 @@ Duration: 6 weeks
 
 Finalized team
 Abdullah Shahid & Safiullah Shah, both from AS, section E1. Very excited to start off this project, however both are starting as teammates with no prior project experiences.
+
+---9 Feb 25---
+Update: Few months into project. Currently in the data collection phase. Here's the spreadsheet where data about 150+ brands is being gathered. This data will be used to decide the top 30 brands, which will the be the focus of the project.
+https://docs.google.com/spreadsheets/d/1jpA5pZo-OPsIIaJjZMUUq-cSGlP1c7Oi/edit?usp=sharing&ouid=107922046616193027685&rtpof=true&sd=true
